@@ -1,0 +1,18 @@
+class HelloWorld {
+    public static void main( String []args ) {
+         int i=10;
+        System.out.println( "Hello World!",+i );
+<<<<<<< HEAD
+     
+=======
+        System.out.println("feature1")
+>>>>>>> feature1
+        
+    }
+}
+
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> feature1
